@@ -1,5 +1,5 @@
-# DIO - Trilha .NET - Fundamentos
-www.dio.me
+<h1 align="center">DIO - Trilha .NET - Fundamentos</h1>
+<p align="center"><a href="https://www.dio.me">www.dio.me</a></p>
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
