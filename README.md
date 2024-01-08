@@ -9,8 +9,9 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 
 ## Proposta
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
-<img align="center" href="diagrama_classe_estacionamento.png"></img>
-
+<p align="center">
+<img href="diagrama_classe_estacionamento.png">
+</p>p
 A classe contém três variáveis, sendo:
 
 **precoInicial**: Tipo decimal. É o preço cobrado para deixar seu veículo estacionado.
