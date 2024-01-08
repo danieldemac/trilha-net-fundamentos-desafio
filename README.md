@@ -11,7 +11,7 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
 <p align="center">
 <img src="diagrama_classe_estacionamento.png">
-</p>p
+</p>
 A classe contém três variáveis, sendo:
 
 **precoInicial**: Tipo decimal. É o preço cobrado para deixar seu veículo estacionado.
